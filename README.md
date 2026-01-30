@@ -38,3 +38,10 @@ Choose the View -> Configure menu items or click the Configure toolbar icon.
 
 <i>Likely to be outdated.</i>
 <img width="695" height="535" alt="image" src="https://github.com/user-attachments/assets/2f32e86f-51a8-4bfe-bafb-78a1908591b9" />
+
+
+# "Locale Checker" Gramplet
+
+Inspired by the <a href="https://gramps-project.org/wiki/index.php?title=Addon:Prerequisites_Checker_Gramplet">Prerequisites Checker</a> gramplet, this wish-code Dashboard identifies the current locale used by the Gramps GUI and the installed alternative languages. Used to explore how to detect the current language so that the LocalTerm can be enhanced to have the it adapt to the primary language instead of defaulting to English.  
+
+<img width="689" height="483" alt="image" src="https://github.com/user-attachments/assets/f2279f4f-61d5-4580-be8e-a023aa447a78" />
